@@ -10,6 +10,7 @@
   "main": "lib/echarts.js",
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
