@@ -5,9 +5,6 @@
   "hooks": {
     "after:init": [
       "t2k"
-    ],
-    "after:bump": [
-      "npm run build"
     ]
   },
   "github": {
