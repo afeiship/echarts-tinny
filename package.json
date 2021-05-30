@@ -1,8 +1,8 @@
 {
-  "name": "@jswork/echarts-tinny",
+  "name": "@jswork/echarts-tiny",
   "version": "1.0.0",
-  "description": "Echart for tinny app.",
-  "homepage": "https://github.com/afeiship/echarts-tinny",
+  "description": "Echart for tiny app.",
+  "homepage": "https://github.com/afeiship/echarts-tiny",
   "author": {
     "name": "afeiship",
     "email": "1290657123@qq.com"
